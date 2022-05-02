@@ -14,3 +14,4 @@ weekly_homework = hours_of_homework * 3
 def say_hello(name):
     print("Hello", name_cap)
 
+say_hello(name)
